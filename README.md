@@ -9,7 +9,7 @@ yarn add typescript -D
 
 yarn tsc --init 
 
-yarn add ts-node-dev -D 
+yarn add typescript ts-node nodemon -D
 
 yarn add express
 
